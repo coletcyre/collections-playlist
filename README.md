@@ -101,4 +101,4 @@ A modern web application for managing and playing your music library, featuring 
 - Currently no support for drag-and-drop reordering
 
 ### Contributing
-Contributions are welcome! Please see the project overview document for current development focus and guidelines.
+This is an AI generated project, more for personal reasons, feel free to do whatever you want with it :)
