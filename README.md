@@ -53,9 +53,6 @@ Note: Due to browser security restrictions, we can't save the actual audio files
 - Large libraries may experience performance issues
 - Some metadata fields may not be extracted correctly from certain file formats
 
-## Contributing
-Contributions are welcome! Please read our contributing guidelines before submitting pull requests.
-
 ## Music Management Web Application
 
 A modern web application for managing and playing your music library, featuring playlist support and a clean user interface.
