@@ -1,0 +1,362 @@
+[vite] connecting... client.ts:18:8
+[vite] connected. client.ts:150:14
+Download the React DevTools for a better development experience: https://reactjs.org/link/react-devtools react-dom.development.js:29895:16
+GET
+http://localhost:5173/vite.svg
+[HTTP/1.1 404 Not Found 0ms]
+
+Starting import of app state exportImport.ts:30:12
+Processing imported songs: 
+Array(75) [ {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, … ]
+exportImport.ts:41:14
+Loaded from localStorage: 
+Object { songsWithMetadata: (1) […] }
+exportImport.ts:73:10
+Loading saved songs with metadata: 
+Array [ {…} ]
+App.tsx:32:16
+Starting import of app state exportImport.ts:30:12
+Processing imported songs: 
+Array(75) [ {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, … ]
+exportImport.ts:41:14
+Loaded from localStorage: 
+Object { songsWithMetadata: (1) […] }
+exportImport.ts:73:10
+Loading saved songs with metadata: 
+Array [ {…} ]
+App.tsx:32:16
+Processing directory: music_files/Drew Holcomb and the Neighbors MusicUploader.tsx:301:16
+Error reading tags: parseData Offset 42127 hasn't been loaded yet. MusicUploader.tsx:85:18
+Falling back to filename parsing: ity Lights MusicUploader.tsx:178:12
+Error reading tags: parseData Offset 33976 hasn't been loaded yet. MusicUploader.tsx:85:18
+Falling back to filename parsing: ung the Moon MusicUploader.tsx:178:12
+Processing directory: music_files/Needtobreathe/The Heat MusicUploader.tsx:301:16
+Processing directory: music_files/Needtobreathe/The Outsiders MusicUploader.tsx:301:16
+Processing directory: music_files/Steve Taylor MusicUploader.tsx:301:16
+Processing directory: music_files MusicUploader.tsx:301:16
+Starting upload with imported songs: 
+Array(75) [ {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, … ]
+Library.tsx:54:13
+Processing new song: 
+Object { title: "Daylight", artist: "Drew Holcomb", album: "Live from Memphis" }
+Library.tsx:75:16
+Processing new song: 
+Object { title: "Jamie", artist: "Drew Holcomb & The Neighbors", album: "Passenger Seat" }
+Library.tsx:75:16
+Processing new song: 
+Object { title: "Unknown Title", artist: "Unknown Artist", album: "Drew Holcomb and the Neighbors" }
+Library.tsx:75:16
+Found matching imported song with edited metadata: 
+Object { title: "Unknown Title", editedMetadata: {…}, matchType: "exact" }
+Library.tsx:78:19
+Processing new song: 
+Object { title: "Magnolia Tree", artist: "Drew Holcomb & The Neighbors", album: "A Million Miles Away" }
+Library.tsx:75:16
+Processing new song: 
+Object { title: "Rollin Around", artist: "Drew Holcomb", album: "Live from Memphis" }
+Library.tsx:75:16
+Processing new song: 
+Object { title: "Hallelujah", artist: "Drew Holcomb & The Neighbors", album: "Passenger Seat" }
+Library.tsx:75:16
+Processing new song: 
+Object { title: "Magnolia Tree", artist: "Drew Holcomb", album: "Live from Memphis" }
+Library.tsx:75:16
+Processing new song: 
+Object { title: "Mercy", artist: "Drew Holcomb & The Neighbors", album: "A Million Miles Away" }
+Library.tsx:75:16
+Processing new song: 
+Object { title: "Better Love", artist: "Drew Holcomb & The Neighbors", album: "A Million Miles Away" }
+Library.tsx:75:16
+Processing new song: 
+Object { title: "Hungry Heart", artist: "Drew Holcomb", album: "Live from Memphis" }
+Library.tsx:75:16
+Processing new song: 
+Object { title: "Late Night Drama Queen", artist: "Drew Holcomb & The Neighbors", album: "Passenger Seat" }
+Library.tsx:75:16
+Processing new song: 
+Object { title: "Fire & Dynamite", artist: "Drew Holcomb & The Neighbors", album: "Passenger Seat" }
+Library.tsx:75:16
+Processing new song: 
+Object { title: "Hung The Moon", artist: "Drew Holcomb & The Neighbors", album: "A Million Miles Away" }
+Library.tsx:75:16
+Processing new song: 
+Object { title: "When I'm With You", artist: "Drew Holcomb", album: "Live from Memphis" }
+Library.tsx:75:16
+Processing new song: 
+Object { title: "ity Lights", artist: "music_files", album: "Drew Holcomb and the Neighbors" }
+Library.tsx:75:16
+Processing new song: 
+Object { title: "Love Is Magic", artist: "Drew Holcomb & The Neighbors", album: "Passenger Seat" }
+Library.tsx:75:16
+Processing new song: 
+Object { title: "The Promised Land", artist: "Drew Holcomb & The Neighbors", album: "A Million Miles Away" }
+Library.tsx:75:16
+Processing new song: 
+Object { title: "Lonely Anna", artist: "Drew Holcomb & The Neighbors", album: "Passenger Seat" }
+Library.tsx:75:16
+Processing new song: 
+Object { title: "The Valley", artist: "Drew Holcomb & The Neighbors", album: "A Million Miles Away" }
+Library.tsx:75:16
+Processing new song: 
+Object { title: "Heartache Heartbreak", artist: "Drew Holcomb & The Neighbors", album: "Passenger Seat" }
+Library.tsx:75:16
+Processing new song: 
+Object { title: "I Like To Be With Me When I'm With You", artist: "Drew Holcomb & The Neighbors", album: "A Million Miles Away" }
+Library.tsx:75:16
+Processing new song: 
+Object { title: "Long Gone Away", artist: "Drew Holcomb", album: "Live from Memphis" }
+Library.tsx:75:16
+Processing new song: 
+Object { title: "Fly Home In The Morning", artist: "Drew Holcomb & The Neighbors", album: "Passenger Seat" }
+Library.tsx:75:16
+Processing new song: 
+Object { title: "Magnolia", artist: "Drew Holcomb & The Neighbors", album: "A Million Miles Away" }
+Library.tsx:75:16
+Processing new song: 
+Object { title: "Mercy", artist: "Drew Holcomb", album: "Live from Memphis" }
+Library.tsx:75:16
+Processing new song: 
+Object { title: "Good Time Girl", artist: "Drew Holcomb & The Neighbors", album: "A Million Miles Away" }
+Library.tsx:75:16
+Processing new song: 
+Object { title: "Rhythm Of The Clock", artist: "Drew Holcomb & The Neighbors", album: "Passenger Seat" }
+Library.tsx:75:16
+Processing new song: 
+Object { title: "The Promised Land", artist: "Drew Holcomb", album: "Live from Memphis" }
+Library.tsx:75:16
+Processing new song: 
+Object { title: "Love Will Bring You Home", artist: "Drew Holcomb & The Neighbors", album: "A Million Miles Away" }
+Library.tsx:75:16
+Processing new song: 
+Object { title: "Sweetness", artist: "Drew Holcomb", album: "Live from Memphis" }
+Library.tsx:75:16
+Processing new song: 
+Object { title: "The Wire", artist: "Drew Holcomb & The Neighbors", album: "Passenger Seat" }
+Library.tsx:75:16
+Processing new song: 
+Object { title: "ung the Moon", artist: "music_files", album: "Drew Holcomb and the Neighbors" }
+Library.tsx:75:16
+Processing new song: 
+Object { title: "Sweetness", artist: "Drew Holcomb & The Neighbors", album: "A Million Miles Away" }
+Library.tsx:75:16
+Processing new song: 
+Object { title: "Love Will Bring You Home", artist: "Drew Holcomb", album: "Live from Memphis" }
+Library.tsx:75:16
+Processing new song: 
+Object { title: "Spare the Time", artist: "NeedToBreathe", album: "The Heat" }
+Library.tsx:75:16
+Processing new song: 
+Object { title: "Restless", artist: "NeedToBreathe", album: "The Heat" }
+Library.tsx:75:16
+Processing new song: 
+Object { title: "Again", artist: "NeedToBreathe", album: "The Heat" }
+Library.tsx:75:16
+Processing new song: 
+Object { title: "Return", artist: "NeedToBreathe", album: "The Heat" }
+Library.tsx:75:16
+Processing new song: 
+Object { title: "We Could Run Away", artist: "NeedToBreathe", album: "The Heat" }
+Library.tsx:75:16
+Processing new song: 
+Object { title: "Streets of Gold", artist: "NeedToBreathe", album: "The Heat" }
+Library.tsx:75:16
+Processing new song: 
+Object { title: "More Time", artist: "NeedToBreathe", album: "The Heat" }
+Library.tsx:75:16
+Processing new song: 
+Object { title: "Signature of Divine", artist: "NeedToBreathe", album: "The Heat" }
+Library.tsx:75:16
+Processing new song: 
+Object { title: "Looks Like Love", artist: "NeedToBreathe", album: "The Heat" }
+Library.tsx:75:16
+Processing new song: 
+Object { title: "The Heat", artist: "NeedToBreathe", album: "The Heat" }
+Library.tsx:75:16
+Processing new song: 
+Object { title: "Nothing Left to Lose", artist: "NeedToBreathe", album: "The Heat" }
+Library.tsx:75:16
+Processing new song: 
+Object { title: "Moving On", artist: "NeedToBreathe", album: "The Heat" }
+Library.tsx:75:16
+Processing new song: 
+Object { title: "Washed By The Water", artist: "NeedToBreathe", album: "The Heat" }
+Library.tsx:75:16
+Processing new song: 
+Object { title: "Second Chances", artist: "NeedToBreathe", album: "The Heat" }
+Library.tsx:75:16
+Processing new song: 
+Object { title: "The Outsiders", artist: "NeedToBreathe", album: "The Outsiders" }
+Library.tsx:75:16
+Processing new song: 
+Object { title: "Valley of Tomorrow", artist: "NeedToBreathe", album: "The Outsiders" }
+Library.tsx:75:16
+Processing new song: 
+Object { title: "Through Smoke", artist: "NeedToBreathe", album: "The Outsiders" }
+Library.tsx:75:16
+Processing new song: 
+Object { title: "Lay 'Em Down", artist: "NeedToBreathe", album: "The Outsiders" }
+Library.tsx:75:16
+Processing new song: 
+Object { title: "What You've Done to Me", artist: "NeedToBreathe", album: "The Outsiders" }
+Library.tsx:75:16
+Processing new song: 
+Object { title: "Hurricane", artist: "NeedToBreathe", album: "The Outsiders" }
+Library.tsx:75:16
+Processing new song: 
+Object { title: "These Hard Times", artist: "NeedToBreathe", album: "The Outsiders" }
+Library.tsx:75:16
+Processing new song: 
+Object { title: "Stones Under Rushing Water", artist: "NeedToBreathe", album: "The Outsiders" }
+Library.tsx:75:16
+Processing new song: 
+Object { title: "Prisoner", artist: "NeedToBreathe", album: "The Outsiders" }
+Library.tsx:75:16
+Processing new song: 
+Object { title: "Won't Turn Back", artist: "NeedToBreathe", album: "The Outsiders" }
+Library.tsx:75:16
+Processing new song: 
+Object { title: "Girl Named Tennessee", artist: "NeedToBreathe", album: "The Outsiders" }
+Library.tsx:75:16
+Processing new song: 
+Object { title: "Something Beautiful", artist: "NeedToBreathe", album: "The Outsiders" }
+Library.tsx:75:16
+Processing new song: 
+Object { title: "Garden", artist: "NeedToBreathe", album: "The Outsiders" }
+Library.tsx:75:16
+Processing new song: 
+Object { title: "Let Us Love", artist: "NeedToBreathe", album: "The Outsiders" }
+Library.tsx:75:16
+Processing new song: 
+Object { title: "Sin For A Season", artist: "Steve Taylor", album: "Meltdown" }
+Library.tsx:75:16
+Processing new song: 
+Object { title: "Am I In Sync?", artist: "Steve Taylor", album: "Meltdown" }
+Library.tsx:75:16
+Processing new song: 
+Object { title: "Baby Doe", artist: "Steve Taylor", album: "Meltdown" }
+Library.tsx:75:16
+Processing new song: 
+Object { title: "Guilty By Association", artist: "Steve Taylor", album: "Meltdown" }
+Library.tsx:75:16
+Processing new song: 
+Object { title: "Hero", artist: "Steve Taylor", album: "Meltdown" }
+Library.tsx:75:16
+Processing new song: 
+Object { title: "Jenny", artist: "Steve Taylor", album: "Meltdown" }
+Library.tsx:75:16
+Processing new song: 
+Object { title: "Meat The Press", artist: "Steve Taylor", album: "Meltdown" }
+Library.tsx:75:16
+Processing new song: 
+Object { title: "Meltdown (At Madame Tussaud's) Edited Version", artist: "Steve Taylor", album: "Meltdown" }
+Library.tsx:75:16
+Processing new song: 
+Object { title: "Meltdown (At Madame Tussaud's) Extended Version", artist: "Steve Taylor", album: "Meltdown" }
+Library.tsx:75:16
+Processing new song: 
+Object { title: "Meltdown (At Madame Tussaud's) Instrumental Extended Version", artist: "Steve Taylor", album: "Meltdown" }
+Library.tsx:75:16
+Processing new song: 
+Object { title: "Meltdown", artist: "Steve Taylor", album: "Meltdown" }
+Library.tsx:75:16
+Processing new song: 
+Object { title: "Over My Dead Body", artist: "Steve Taylor", album: "Meltdown" }
+Library.tsx:75:16
+Processing new song: 
+Object { title: "We Don't Need No Colour Code", artist: "Steve Taylor", album: "Meltdown" }
+Library.tsx:75:16
+Current song changed: 
+Object { id: "1736054126015", title: "Daylight", artist: "Drew Holcomb", album: "Live from Memphis", genre: "Unknown Genre", year: 2008, duration: 206.077097, customTags: {…}, file: File }
+AudioPlayer.tsx:72:12
+Set audio source: blob:http://localhost:5173/c72b4317-50f6-451d-a4f7-5a7aaa0ee07e AudioPlayer.tsx:99:16
+Saving state to localStorage: 
+Object { totalSongs: 75, songsWithMetadata: (1) […] }
+App.tsx:66:12
+Saving to localStorage, songs with metadata: 
+Array [ {…} ]
+exportImport.ts:64:10
+Exporting state with songs: 
+Array(75) [ {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, … ]
+exportImport.ts:4:10
+Current song changed: 
+Object { id: "1736054126015", title: "Daylight", artist: "Drew Holcomb", album: "Live from Memphis", genre: "Unknown Genre", year: 2008, duration: 206.077097, customTags: {…}, file: File }
+AudioPlayer.tsx:72:12
+Set audio source: blob:http://localhost:5173/0136f136-6c47-4a1d-a92f-05e295c8f9bd AudioPlayer.tsx:99:16
+Saving state to localStorage: 
+Object { totalSongs: 75, songsWithMetadata: (1) […] }
+App.tsx:66:12
+Saving to localStorage, songs with metadata: 
+Array [ {…} ]
+exportImport.ts:64:10
+Exporting state with songs: 
+Array(75) [ {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, … ]
+exportImport.ts:4:10
+Can play event triggered AudioPlayer.tsx:125:14
+Handling next song, current state: 
+Object { isPlayingQueue: false, queueLength: 0, repeatMode: "none", shuffleMode: false, currentPlaylist: undefined, currentSongId: "1736054126015", shuffledIndicesLength: 0, nextShuffleIndex: undefined }
+App.tsx:286:12
+Current song changed: 
+Object { id: "1736054126025", title: "Jamie", artist: "Drew Holcomb & The Neighbors", album: "Passenger Seat", genre: "Unclassifiable", year: 2008, duration: 305.969342, customTags: {…}, file: File }
+AudioPlayer.tsx:72:12
+Set audio source: blob:http://localhost:5173/e56eab02-f388-4da5-8cbe-3ed00349acd9 AudioPlayer.tsx:99:16
+Can play event triggered AudioPlayer.tsx:125:14
+Attempting auto-play AudioPlayer.tsx:127:16
+Successfully started playback AudioPlayer.tsx:132:22
+Handling next song, current state: 
+Object { isPlayingQueue: false, queueLength: 0, repeatMode: "none", shuffleMode: false, currentPlaylist: undefined, currentSongId: "1736054126025", shuffledIndicesLength: 0, nextShuffleIndex: undefined }
+App.tsx:286:12
+Current song changed: 
+Object { id: "1736054126031", title: "Unknown Title", artist: "Unknown Artist", album: "Drew Holcomb and the Neighbors", genre: "Unknown Genre", year: 2010, duration: 305.946122, customTags: {…}, file: File, editedMetadata: {…} }
+AudioPlayer.tsx:72:12
+Set audio source: blob:http://localhost:5173/ac1036fc-ce59-4d0a-b304-9a31f1a5765e AudioPlayer.tsx:99:16
+Can play event triggered AudioPlayer.tsx:125:14
+Attempting auto-play AudioPlayer.tsx:127:16
+Successfully started playback AudioPlayer.tsx:132:22
+Added 1 songs to queue Library.tsx:217:14
+Shuffle mode changed: 
+Object { enabled: true, currentSongIndex: 2, isPlayingQueue: false, queueLength: 4 }
+App.tsx:249:12
+Generated shuffle indices: 
+Object { total: 75, first: 2, currentSong: "Unknown Title" }
+App.tsx:272:14
+Shuffle mode changed: 
+Object { enabled: false, currentSongIndex: 2, isPlayingQueue: false, queueLength: 4 }
+App.tsx:249:12
+Clearing shuffle indices App.tsx:280:14
+Shuffle mode changed: 
+Object { enabled: true, currentSongIndex: 2, isPlayingQueue: false, queueLength: 4 }
+App.tsx:249:12
+Generated shuffle indices: 
+Object { total: 75, first: 2, currentSong: "Unknown Title" }
+App.tsx:272:14
+Shuffle mode changed: 
+Object { enabled: false, currentSongIndex: 2, isPlayingQueue: false, queueLength: 4 }
+App.tsx:249:12
+Clearing shuffle indices App.tsx:280:14
+Handling next song, current state: 
+Object { isPlayingQueue: false, queueLength: 4, repeatMode: "none", shuffleMode: false, currentPlaylist: undefined, currentSongId: "1736054126031", shuffledIndicesLength: 0, nextShuffleIndex: undefined }
+App.tsx:286:12
+Playing next song from sub-queue: 
+Object { title: "Daylight", remainingQueueLength: 3 }
+App.tsx:318:16
+Current song changed: 
+Object { id: "1736054126015", title: "Daylight", artist: "Drew Holcomb", album: "Live from Memphis", genre: "Unknown Genre", year: 2008, duration: 206.077097, customTags: {…}, file: File }
+AudioPlayer.tsx:72:12
+Set audio source: blob:http://localhost:5173/84e4fed0-b0b1-4b2b-b8ef-f1443617225e AudioPlayer.tsx:99:16
+Can play event triggered AudioPlayer.tsx:125:14
+Attempting auto-play AudioPlayer.tsx:127:16
+Successfully started playback AudioPlayer.tsx:132:22
+Shuffle mode changed: 
+Object { enabled: true, currentSongIndex: 0, isPlayingQueue: true, queueLength: 3 }
+App.tsx:249:12
+Generated shuffle indices: 
+Object { total: 75, first: 0, currentSong: "Daylight" }
+App.tsx:272:14
+Handling next song, current state: 
+Object { isPlayingQueue: true, queueLength: 3, repeatMode: "none", shuffleMode: true, currentPlaylist: undefined, currentSongId: "1736054126015", shuffledIndicesLength: 75, nextShuffleIndex: 40 }
+App.tsx:286:12
+Could not find song in library, skipping but keeping in queue: Am I In Sync? App.tsx:327:16
+Shuffle mode changed: 
+Object { enabled: false, currentSongIndex: 0, isPlayingQueue: true, queueLength: 3 }
+App.tsx:249:12
+Clearing shuffle indices App.tsx:280:14

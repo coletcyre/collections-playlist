@@ -1,0 +1,12 @@
+The main feature I am after is Collections.
+
+Collections are basically multiplayists, and can be created in a few fashions:
+- From grouping playlists together in a determined order
+- From scratch by picking a song to start with
+- Using the editor to create a Collections  
+     - Auto-fill: users will set each Collection with pre determined length ranges, and tags to consider. Each time an Auto-fill list is played, the app will sort it (for the session) with songs that match the tags and fit the length range. 
+     - Playlist style: users will manually create each Collection, and can use tags as a filter to quickly search for songs to add to the Collection. 
+
+Collections have each section as a mini playlist, each section will be played in order, and each section can have the songs within it's section shuffled. 
+
+

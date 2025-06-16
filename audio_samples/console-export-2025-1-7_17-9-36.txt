@@ -1,0 +1,62 @@
+[vite] connecting... client.ts:18:8
+[vite] connected. client.ts:150:14
+Download the React DevTools for a better development experience: https://reactjs.org/link/react-devtools react-dom.development.js:29895:16
+Error in parsing value for ‘-webkit-text-size-adjust’.  Declaration dropped. localhost:5173:141:29
+Starting import of app state exportImport.ts:30:12
+Processing imported songs: 
+Array(75) [ {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, … ]
+exportImport.ts:41:14
+Loaded from localStorage: 
+Object { songsWithMetadata: (1) […] }
+exportImport.ts:73:10
+Loading saved songs with metadata: 
+Array [ {…} ]
+App.tsx:32:16
+Starting import of app state exportImport.ts:30:12
+Processing imported songs: 
+Array(75) [ {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, … ]
+exportImport.ts:41:14
+Loaded from localStorage: 
+Object { songsWithMetadata: (1) […] }
+exportImport.ts:73:10
+Loading saved songs with metadata: 
+Array [ {…} ]
+App.tsx:32:16
+Source map error: Error: URL constructor:  is not a valid URL.
+Stack in the worker:resolveSourceMapURL@resource://devtools/client/shared/source-map-loader/utils/fetchSourceMap.js:56:22
+getOriginalURLs@resource://devtools/client/shared/source-map-loader/source-map.js:73:24
+workerHandler/</<@resource://devtools/client/shared/worker-utils.js:115:52
+workerHandler/<@resource://devtools/client/shared/worker-utils.js:113:13
+
+Resource URL: wasm:moz-extension://4a62ebbf-9517-482e-a8c8-ae207dac996f/jsAndWasm/classifier.js%20line%201%20%3E%20WebAssembly.Module
+Source Map URL: null
+Uncaught TypeError: selectedCollection.sections is undefined
+    CollectionManager CollectionManager.tsx:448
+    React 16
+    onClick CollectionManager.tsx:290
+    React 15
+CollectionManager.tsx:448:21
+Uncaught TypeError: selectedCollection.sections is undefined
+    CollectionManager CollectionManager.tsx:448
+    React 17
+    onClick CollectionManager.tsx:290
+    React 15
+CollectionManager.tsx:448:21
+The above error occurred in the <CollectionManager> component:
+
+CollectionManager@http://localhost:5173/src/components/CollectionManager.tsx?t=1736294955483:20:27
+div
+div
+main
+div
+App@http://localhost:5173/src/App.tsx?t=1736293465068:28:34
+ThemeProvider@http://localhost:5173/src/contexts/ThemeContext.tsx:20:30
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries. react-dom.development.js:18704:14
+Uncaught TypeError: selectedCollection.sections is undefined
+    CollectionManager CollectionManager.tsx:448
+    React 14
+    onClick CollectionManager.tsx:290
+    React 15
+CollectionManager.tsx:448:21

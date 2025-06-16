@@ -1,0 +1,48 @@
+[vite] connecting... client.ts:18:8
+[vite] connected. client.ts:150:14
+Download the React DevTools for a better development experience: https://reactjs.org/link/react-devtools react-dom.development.js:29895:16
+Error in parsing value for ‘-webkit-text-size-adjust’.  Declaration dropped. localhost:5173:141:29
+GET
+http://localhost:5173/vite.svg
+[HTTP/1.1 404 Not Found 0ms]
+
+Starting import of app state exportImport.ts:30:12
+Processing imported songs: 
+Array(75) [ {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, … ]
+exportImport.ts:41:14
+Loaded from localStorage: 
+Object { songsWithMetadata: (1) […] }
+exportImport.ts:73:10
+Loading saved songs with metadata: 
+Array [ {…} ]
+App.tsx:32:16
+Starting import of app state exportImport.ts:30:12
+Processing imported songs: 
+Array(75) [ {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, … ]
+exportImport.ts:41:14
+Loaded from localStorage: 
+Object { songsWithMetadata: (1) […] }
+exportImport.ts:73:10
+Loading saved songs with metadata: 
+Array [ {…} ]
+App.tsx:32:16
+Search input changed: M CollectionManager.tsx:655:46
+No songs available in library CollectionManager.tsx:260:14
+Search results: 0 CollectionManager.tsx:667:48
+No songs available in library CollectionManager.tsx:260:14
+Search results: 0 CollectionManager.tsx:667:48
+Search input changed: Ma CollectionManager.tsx:655:46
+No songs available in library CollectionManager.tsx:260:14
+Search results: 0 CollectionManager.tsx:667:48
+No songs available in library CollectionManager.tsx:260:14
+Search results: 0 CollectionManager.tsx:667:48
+Search input changed: Mag CollectionManager.tsx:655:46
+No songs available in library CollectionManager.tsx:260:14
+Search results: 0 CollectionManager.tsx:667:48
+No songs available in library CollectionManager.tsx:260:14
+Search results: 0 CollectionManager.tsx:667:48
+Search input changed: Magn CollectionManager.tsx:655:46
+No songs available in library CollectionManager.tsx:260:14
+Search results: 0 CollectionManager.tsx:667:48
+No songs available in library CollectionManager.tsx:260:14
+Search results: 0 CollectionManager.tsx:667:48
